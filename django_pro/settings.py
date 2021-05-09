@@ -25,7 +25,7 @@ SECRET_KEY = 'q@+x9_z)l^h)%!ou74%*-%nj-&pve_5%$qem=^r814*o8p)@at'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["myhmiminiproject.herokuapp.com"]
 
 
 # Application definition
